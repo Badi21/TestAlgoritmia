@@ -36,4 +36,7 @@ recibido por el trabajador en base las horas trabajadas y la tarifa. Utilice las
 instrucciones LEER HORASTRABAJADAS y LEER TARIFA al inicio del programa para
 cargar los valores en las variables HORASTRABAJADAS y TARIFA.
 
+### Link del repositorio Github
+[Repositorio de TestAlgoritmia](https://github.com/Badi21/TestAlgoritmia)
+
 Test básico de algorítmica
